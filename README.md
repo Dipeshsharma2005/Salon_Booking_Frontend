@@ -1,6 +1,10 @@
 # 💇 Salon Booking Platform — Frontend
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Salon+Booking+Platform;React+%2B+Vite+Frontend;Discover+Salons.+Book+Appointments.;A+Modern+Salon+Booking+Experience" alt="Animated Salon Booking title" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" />
   <img src="https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Material_UI-UI_Framework-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
